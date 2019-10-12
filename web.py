@@ -1,5 +1,8 @@
 import os
 
+# Neria maimon the Code creator
+# follow me on instagram @neriamaimon
+
 name = input("Hey new user whats your name?\n")
 
 
